@@ -1,0 +1,123 @@
+#details-overlay {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: #ffffff;
+    display: none;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding-top: 125px;
+}
+.details-load {
+    display: block;
+    position: relative;
+}
+.details-load .overlay {
+    position: absolute;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(244, 101, 36, 0);
+    opacity: 0;
+    transition: all 0.3s ease 0s;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 1.25px;
+}
+.details-load .overlay:before {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
+}
+.details-load .overlay div {
+    display: inline-block;
+    vertical-align: middle;
+}
+.details-load .overlay:hover {
+    background-color: rgba(244, 101, 36, 0.85);
+    opacity: 1;
+}
+.details-load .overlay p {
+    margin-bottom: 30px;
+}
+.details-load .overlay span {
+    color: #000000;
+}
+.noscroll {
+	overflow: hidden;
+}
+.btn-close {
+    padding-top: 0;
+    margin-bottom: 0;
+    display: inline-block;
+    width: 22px;
+}
+a.slider-prev, a.slider-next {
+    color: #999999;
+}
+.btn-download {
+    background-color: #000000;
+}
+#slider-wrapper {
+    opacity: 0;
+    padding-bottom: 50px;
+}
+.preloader {
+    display: none;
+}
+.slider-nav {
+    padding-bottom: 10px;
+}
+.slider-nav .btn-close {
+    margin-top: 10px; 
+    display: inline-block;
+}
+/* BxSlider */
+.bx-wrapper .bx-viewport {
+    box-shadow: none;
+    border: 1px solid transparent;
+}
+.bx-wrapper .bx-pager.bx-default-pager a {
+    background: none repeat scroll 0% 0% #999999;
+    text-indent: -9999px;
+    display: block;
+    width: 10px;
+    height: 10px;
+    margin: 0px 10px;
+    outline: 0px none;
+    border-radius: 50%;
+}
+.bx-wrapper .bx-controls-direction a {
+    position: absolute;
+    top: 50%;
+    margin-top: -16px;
+    outline: 0px none;
+    width: 64px;
+    height: 64px;
+    text-indent: -9999px;
+    z-index: 9999;
+}
+.bx-wrapper .bx-prev {
+    left: -50px;
+    background: url("/assets/images/icons/chevron-left.svg") no-repeat scroll 0 0 transparent;
+}
+.bx-wrapper .bx-next {
+    right: -50px;
+    background: url("/assets/images/icons/chevron-right.svg") no-repeat scroll 0 0 transparent;
+}
+.bx-wrapper .bx-next:hover {
+    background-position: 0 0;
+}
+@media (max-width: 1024px) { 
+    .bx-wrapper .bx-controls-direction a {
+        display: none;
+    }
+}
