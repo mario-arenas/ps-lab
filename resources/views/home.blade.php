@@ -107,36 +107,36 @@ Spark omni-channel engagement.
         
         <div class="col-sm-3">
             <div class="item">
-                <img class="img-responsive" alt="" src="http://www.parhamsantana.com/images/uploads/home/home-banner-1.jpg">
+                <img class="img-responsive" alt="" src="/images/uploads/home/home-banner-1.jpg">
                 <h3 class="text-center logo">
-                    <img src="http://www.parhamsantana.com/images/uploads/home/target-full.png" style="width: auto; height: 74px;" />
+                    <img src="/images/uploads/home/target-full.png" style="width: auto; height: 74px;" />
                 </h3>
             </div>
         </div>
         
         <div class="col-sm-3">
             <div class="item">
-                <img class="img-responsive" alt="" src="http://www.parhamsantana.com/images/uploads/home/home-banner-2.jpg">
+                <img class="img-responsive" alt="" src="/images/uploads/home/home-banner-2.jpg">
                 <h3 class="text-center logo">
-                    <img src="http://www.parhamsantana.com/images/uploads/home/Kohls_Logo.png" style="width: auto; height: 25px;" />
+                    <img src="/images/uploads/home/Kohls_Logo.png" style="width: auto; height: 25px;" />
                 </h3>
             </div>
         </div>
         
         <div class="col-sm-3">
             <div class="item">
-                <img class="img-responsive" alt="" src="http://www.parhamsantana.com/images/uploads/home/home-banner-3.jpg">
+                <img class="img-responsive" alt="" src="/images/uploads/home/home-banner-3.jpg">
                 <h3 class="text-center logo">
-                    <img src="http://www.parhamsantana.com/images/uploads/home/macys.png" style="width: auto; height: 35px;" />
+                    <img src="/images/uploads/home/macys.png" style="width: auto; height: 35px;" />
                 </h3>
             </div>
         </div>
         
         <div class="col-sm-3">
             <div class="item">
-                <img class="img-responsive" alt="" src="http://www.parhamsantana.com/images/uploads/home/home-banner-4.jpg">
+                <img class="img-responsive" alt="" src="/images/uploads/home/home-banner-4.jpg">
                 <h3 class="text-center logo">
-                    <img src="http://www.parhamsantana.com/images/uploads/home/walmart.png" style="width: auto; height: 40px;" />
+                    <img src="/images/uploads/home/walmart.png" style="width: auto; height: 40px;" />
                 </h3>
             </div>
         </div>
@@ -177,7 +177,7 @@ that will drive your business to the next level.</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/262/work-a1-2__large.png">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/262/work-a1-2__large.png">
                     
                 </a>
             </div>
@@ -192,7 +192,7 @@ that will drive your business to the next level.</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/85/parhamsantana_brandextension_foodnetwork__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/85/parhamsantana_brandextension_foodnetwork__large.jpg">
                     
                 </a>
             </div>
@@ -207,7 +207,7 @@ that will drive your business to the next level.</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/263/parhamsantana_brandextension_skiphop__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/263/parhamsantana_brandextension_skiphop__large.jpg">
                     
                 </a>
             </div>
@@ -222,7 +222,7 @@ that will drive your business to the next level.</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/264/parhamsantana_brandextension_bhg__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/264/parhamsantana_brandextension_bhg__large.jpg">
                     
                 </a>
             </div>
@@ -237,7 +237,7 @@ that will drive your business to the next level.</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/265/parhamsantana_brandextension_maidenform_flexees__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/265/parhamsantana_brandextension_maidenform_flexees__large.jpg">
                     
                 </a>
             </div>
@@ -252,7 +252,7 @@ that will drive your business to the next level.</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/266/parhamsantana_brandextension_target_halloween__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/266/parhamsantana_brandextension_target_halloween__large.jpg">
                     
                 </a>
             </div>
@@ -267,7 +267,7 @@ that will drive your business to the next level.</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/267/parhamsantana_brandextension_sesame__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/267/parhamsantana_brandextension_sesame__large.jpg">
                     
                 </a>
             </div>
@@ -282,7 +282,7 @@ that will drive your business to the next level.</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/268/parhamsantana_brandextension_walmart_holidaytime-2__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/268/parhamsantana_brandextension_walmart_holidaytime-2__large.jpg">
                     
                 </a>
             </div>
@@ -297,7 +297,7 @@ that will drive your business to the next level.</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/269/parhamsantana_brandextension_americangreetings__large.png">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/269/parhamsantana_brandextension_americangreetings__large.png">
                     
                 </a>
             </div>
@@ -312,7 +312,7 @@ that will drive your business to the next level.</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/582/parhamsantana_brandextension_american_girl_girl_of_the_year__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/582/parhamsantana_brandextension_american_girl_girl_of_the_year__large.jpg">
                     
                 </a>
             </div>
@@ -328,7 +328,7 @@ LICENSING SUCCESS</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/603/parhamsantana_brandextension_fabio_viviani__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/603/parhamsantana_brandextension_fabio_viviani__large.jpg">
                     
                 </a>
             </div>
@@ -344,7 +344,7 @@ CULTURAL ICON</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/605/parhamsantana_brandextension_rollingstone__large.png">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/605/parhamsantana_brandextension_rollingstone__large.png">
                     
                 </a>
             </div>
@@ -360,7 +360,7 @@ OF PRODUCTS AND SERVICES</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/606/parhamsantana_brandextension_discovery_cp__large.png">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/606/parhamsantana_brandextension_discovery_cp__large.png">
                     
                 </a>
             </div>
@@ -376,7 +376,7 @@ MERCHANDISE STYLE GUIDE</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/607/parhamsantana_brandextension_nfl__large.png">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/607/parhamsantana_brandextension_nfl__large.png">
                     
                 </a>
             </div>
@@ -392,7 +392,7 @@ AMERICAN BRAND</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/604/parhamsantana_brandextension_mikeroweworks__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/604/parhamsantana_brandextension_mikeroweworks__large.jpg">
                     
                 </a>
             </div>
@@ -408,7 +408,7 @@ REPOSITION AND RELAUNCH</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/622/parhamsantana_brandextension_french_toast-2__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/622/parhamsantana_brandextension_french_toast-2__large.jpg">
                     
                 </a>
             </div>
@@ -424,7 +424,7 @@ NEW DESTINATIONS</p>
                         </div>
                     </div>
                     
-                    <img class="img-fluid" alt="" src="http://www.parhamsantana.com/images/uploads/work/623/parhamsantana_brandextension_discovery_destinations__large.jpg">
+                    <img class="img-fluid" alt="" src="/images/uploads/work/623/parhamsantana_brandextension_discovery_destinations__large.jpg">
                     
                 </a>
             </div>
@@ -562,7 +562,7 @@ NEW DESTINATIONS</p>
         
             
             <div class="item active">
-                <img class="img-fluid" src="http://www.parhamsantana.com/images/uploads/home/566/parhamsantana_brandextension_unseen_is_unsold__x-large.jpg" />
+                <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_unseen_is_unsold__x-large.jpg" />
                 <div class="ps-caption">
                     <div class="positioner">
                         <h2>&ldquo;Unseen is unsold.&rdquo;</h2>
@@ -576,7 +576,7 @@ NEW DESTINATIONS</p>
             </div>
             
             <div class="item">
-                <img class="img-fluid" src="http://www.parhamsantana.com/images/uploads/home/566/parhamsantana_brandextension_empower_your_consumer__x-large.jpg" />
+                <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_empower_your_consumer__x-large.jpg" />
                 <div class="ps-caption">
                     <div class="positioner">
                         <h2>&ldquo;Empower your consumer, you will gain their trust.&rdquo;</h2>
@@ -590,7 +590,7 @@ NEW DESTINATIONS</p>
             </div>
             
             <div class="item">
-                <img class="img-fluid" src="http://www.parhamsantana.com/images/uploads/home/566/parhamsantana_brandextension_always_strive_to_add_value__x-large.jpg" />
+                <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_always_strive_to_add_value__x-large.jpg" />
                 <div class="ps-caption">
                     <div class="positioner">
                         <h2>&ldquo;Always strive to add value.&rdquo;</h2>
@@ -604,7 +604,7 @@ NEW DESTINATIONS</p>
             </div>
             
             <div class="item">
-                <img class="img-fluid" src="http://www.parhamsantana.com/images/uploads/home/566/parhamsantana_brandextension_you_buy_with_your_eyes__x-large.jpg" />
+                <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_you_buy_with_your_eyes__x-large.jpg" />
                 <div class="ps-caption">
                     <div class="positioner">
                         <h2>&ldquo;You buy with your eyes.&rdquo;</h2>
@@ -618,7 +618,7 @@ NEW DESTINATIONS</p>
             </div>
             
             <div class="item">
-                <img class="img-fluid" src="http://www.parhamsantana.com/images/uploads/home/566/parhamsantana_brandextension_all_genius_is_editing__x-large.jpg" />
+                <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_all_genius_is_editing__x-large.jpg" />
                 <div class="ps-caption">
                     <div class="positioner">
                         <h2>&ldquo;All genius is editing.&rdquo;</h2>
