@@ -22,6 +22,28 @@ Route::get('/process', function () {
     return view('process.process');
 });
 
+Route::prefix('services')->group(function () {
+    Route::get('/', function () {
+        return redirect('/?scrollTo=services');
+    });
+
+    Route::get('/research-insights', function () {
+        return view('services.research-insights');
+    });
+
+    Route::get('/positioning-image', function () {
+        return view('services.positioning-image');
+    });
+
+    Route::get('/retail-activation', function () {
+        return view('services.retail-activation');
+    });
+
+    Route::get('/licensing-representation', function () {
+        return view('services.licensing-representation');
+    });
+});
+
 Route::prefix('work')->group(function () {
     Route::get('/', function () {
         return redirect('/?scrollTo=work');

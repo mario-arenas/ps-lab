@@ -163,7 +163,9 @@
         var $workImages = $(".work-top-images");
         if ($workImages) {
             $workImages.velocity("transition.fadeIn", {stagger: 350});
-        } 
+        }
+
+        $("#intro .item").velocity("transition.fadeIn", {stagger: 350});
     }
     
     // Animate facts
