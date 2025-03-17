@@ -58,8 +58,8 @@
             <li ><a href="/?scrollTo=work" class="{{ !request()->segment(1) ? 'scroll' : '' }}" data-id="work">Work</a></li>
             <li ><a href="/?scrollTo=services" class="{{ !request()->segment(1) ? 'scroll' : '' }}" data-id="services">Services</a></li>
             <li class="{{ request()->segment(1) == 'process' ? 'active' : '' }}"><a href="/process">Process</a></li>
-            <li ><a href="/services/licensing-representation">Licensing</a></li>
-            <li ><a href="/about">About</a></li>
+            <li class="{{ request()->segment(1) == 'services' ? 'active' : '' }}"><a href="/services/licensing-representation">Licensing</a></li>
+            <li class="{{ request()->segment(1) == 'about' ? 'active' : '' }}"><a href="/about">About</a></li>
             <li><a href="/?scrollTo=contact" id="contact">Contact</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
@@ -166,6 +166,12 @@
         }
 
         $("#intro .item").velocity("transition.fadeIn", {stagger: 350});
+
+        $('#fact-1-overlay').animateNumber({ number: 24 }, 1500).velocity({opacity: 0}, {duration: 125, complete: hideCanvas1});
+        $('#fact-2-overlay').animateNumber({ number: 9 }, 900).velocity({opacity: 0}, {duration: 125, complete: hideCanvas2});
+        $('#fact-3-overlay').animateNumber({ number: 10 }, 1250).velocity({opacity: 0}, {duration: 125, complete: hideCanvas3});
+        $('#fact-4-overlay').animateNumber({ number: 4 }, 1000).velocity({opacity: 0}, {duration: 125, complete: hideCanvas4});
+        $('#fact-5-overlay').animateNumber({ number: 99 }, 1750).velocity({opacity: 0}, {duration: 125, complete: hideCanvas5});
     }
     
     // Animate facts
@@ -252,7 +258,8 @@
             work: $('#work'),
             services: $('#services'),
             contact: $('#footer'),
-            chart: $('#chart')
+            chart: $('#chart'),
+            team: $('#team')
         }
 	    
 	    // Scroll to location by direct entrance

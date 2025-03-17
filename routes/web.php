@@ -6,20 +6,68 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/process/consumer-perspective', function () {
-    return view('process.consumer-perspective');
+Route::prefix('process')->group(function () {
+    Route::get('/', function () {
+        return view('process.process');
+    });
+
+    Route::get('/consumer-perspective', function () {
+        return view('process.consumer-perspective');
+    });
+    
+    Route::get('/retail-perspective', function () {
+        return view('process.retail-perspective');
+    });
+    
+    Route::get('/client-perspective', function () {
+        return view('process.client-perspective');
+    });
 });
 
-Route::get('/process/retail-perspective', function () {
-    return view('process.retail-perspective');
-});
+Route::prefix('about')->group(function () {
+    Route::get('/', function () {
+        return view('about.about');
+    });
 
-Route::get('/process/client-perspective', function () {
-    return view('process.client-perspective');
-});
+    Route::get('/john', function () {
+        return view('about.john');
+    });
 
-Route::get('/process', function () {
-    return view('process.process');
+    Route::get('/maruchi', function () {
+        return view('about.maruchi');
+    });
+
+    Route::get('/steve', function () {
+        return view('about.steve');
+    });
+
+    Route::get('/maryann', function () {
+        return view('about.maryann');
+    });
+
+    Route::get('/aaron', function () {
+        return view('about.aaron');
+    });
+
+    Route::get('/susanne', function () {
+        return view('about.susanne');
+    });
+
+    Route::get('/edward', function () {
+        return view('about.edward');
+    });
+    
+    Route::get('/diana', function () {
+        return view('about.diana');
+    });
+
+    Route::get('/james', function () {
+        return view('about.james');
+    });
+
+    Route::get('/richard', function () {
+        return view('about.richard');
+    });
 });
 
 Route::prefix('services')->group(function () {
