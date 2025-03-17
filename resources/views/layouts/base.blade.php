@@ -233,8 +233,8 @@
     	        didScroll = false;
     	        var fromTop = $(window).scrollTop();
                 var facts = $('.facts');
-    	        var factsPosition = facts ? $('.facts').offset().top : null;
-    	        if (facts && (fromTop >= factsPosition - 800)) {
+    	        var factsPosition = facts && facts.length > 0 ? $('.facts').offset().top : null;
+    	        if (factsPosition && (fromTop >= factsPosition - 800)) {
         	        animateNumber($overlay1, $overlay2, $overlay3, $overlay4, $overlay5);
     	        }
     	    };
