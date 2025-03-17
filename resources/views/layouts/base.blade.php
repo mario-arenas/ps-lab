@@ -155,7 +155,15 @@
     }
     // Show intro
     function showIntroText() {
-        $(".intro-text").velocity("transition.slideLeftIn", {stagger: 350, complete: showIntro});    
+        var $introText = $(".intro-text");
+        if ($introText) {
+            $introText.velocity("transition.slideLeftIn", {stagger: 350, complete: showIntro});
+        }
+        
+        var $workImages = $(".work-top-images");
+        if ($workImages) {
+            $workImages.velocity("transition.fadeIn", {stagger: 350});
+        } 
     }
     
     // Animate facts
@@ -186,7 +194,7 @@
     
     //Document ready
     $(document).ready(function() {
-        	    // Cache overlay and hide
+        // Cache overlay and hide
         var $overlay = $('#overlay-loader');
         $overlay.velocity("fadeOut", {duration: 250, delay: 250, complete: showIntroText});
                 

@@ -7,17 +7,27 @@ Route::get('/', function () {
 });
 
 Route::get('/process/consumer-perspective', function () {
-    return view('consumer-perspective');
+    return view('process.consumer-perspective');
 });
 
 Route::get('/process/retail-perspective', function () {
-    return view('retail-perspective');
+    return view('process.retail-perspective');
 });
 
 Route::get('/process/client-perspective', function () {
-    return view('client-perspective');
+    return view('process.client-perspective');
 });
 
 Route::get('/process', function () {
-    return view('process');
+    return view('process.process');
+});
+
+Route::prefix('work')->group(function () {
+    Route::get('/', function () {
+        return redirect('/?scrollTo=work');
+    });
+
+    Route::get('/american-girl', function () {
+        return view('work.american-girl');
+    });
 });
