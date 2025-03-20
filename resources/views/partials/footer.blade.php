@@ -19,11 +19,6 @@
                             <div class="form-group">
                                 <textarea class="form-control note" name="note" placeholder="YOUR NOTE"></textarea>
                             </div>
-                            <div class="checkbox">
-                                <label>
-                                    <input type="checkbox" name="newsletter" checked="checked"> Receive Our Newsletter
-                                </label>
-                            </div>
                             <div class="row">
                                 <div class="col-xs-6">
                                     <button type="submit" id="contact-submit" class="btn btn-primary btn-block">Submit</button>
@@ -37,12 +32,12 @@
 
                         <div class="row text-muted">
                             <div class="col-xs-2">Call</div>
-                            <div class="col-xs-10"><p>212 645 7501</p></div>
+                            <div class="col-xs-10"><p>917-751-6434</p></div>
                         </div>
 
                         <div class="row text-muted">
                             <div class="col-xs-2">Email</div>
-                            <div class="col-xs-10"><p class="text-info"><a href="mailto:maruchi@parhamsantana.com">maruchi@parhamsantana.com</a></p></div>
+                            <div class="col-xs-10"><p class="text-info"><a href="mailto:john@parhamsantana.com">john@parhamsantana.com</a></p></div>
                         </div>
                     </div>
                 </div>
@@ -57,15 +52,9 @@
                         
                         <address class="text-muted">
                             Parham Santana<br/>
-41 East 11 Street    11 Floor<br/>
-New York, NY 10003
+                            500 4th Street<br/>
+                            Brooklyn, NY 11215
                         </address>
-
-                        <div class="social">
-                            <a href="https://www.facebook.com/parhamsantana" target="_blank"><img src="/assets/images/icons/facebook.svg" /></a>
-                            <a href="https://twitter.com/parhamsantana" target="_blank"><img src="/assets/images/icons/twitter.svg" /></a>
-                            <a href="http://www.linkedin.com/company/parham-santana" target="_blank"><img src="/assets/images/icons/linkedin.svg" /></a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -80,38 +69,10 @@ New York, NY 10003
                             <h5>Business Inquiries</h5>
                             <div class="row block-xsmall text-muted">
                                 
-                                <div class="col-xs-6">Maruchi Santana</div>
-                                <div class="col-xs-6">212 645 7501 x222</div>
-                                <div class="col-xs-12">
-                                    <p class="text-info"><a href="mailto:maruchi@parhamsantana.com">maruchi@parhamsantana.com</a></p>
-                                </div>
-                                
                                 <div class="col-xs-6">John Parham</div>
-                                <div class="col-xs-6">212 645 7501 x212</div>
+                                <div class="col-xs-6">917-751-6434</div>
                                 <div class="col-xs-12">
                                     <p class="text-info"><a href="mailto:john@parhamsantana.com">john@parhamsantana.com</a></p>
-                                </div>
-                                
-                            </div>
-
-                            <h5>Employment Inquiries</h5>
-                            <div class="row block-xsmall text-muted">
-                                
-                                <div class="col-xs-6">Maryann Mitkowski</div>
-                                <div class="col-xs-6">212 645 7501 x226</div>
-                                <div class="col-xs-12">
-                                    <p class="text-info"><a href="mailto:maryann@parhamsantana.com">maryann@parhamsantana.com</a></p>
-                                </div>
-                                
-                            </div>
-
-                            <h5>Press Inquiries</h5>
-                            <div class="row text-muted">
-                                
-                                <div class="col-xs-6">Maruchi Santana</div>
-                                <div class="col-xs-6">212 645 7501 x222</div>
-                                <div class="col-xs-12">
-                                    <p class="text-info"><a href="mailto:maruchi@parhamsantana.com">maruchi@parhamsantana.com</a></p>
                                 </div>
                                 
                             </div>

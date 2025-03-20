@@ -146,42 +146,6 @@
                                 
                                     <!-- staff -->
                                     <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <a href="/about/steve" class="thumb-wrapper team">
-                                            <div class="overlay text-center">
-                                                <div>
-                                                    <h2>Steve</h2>
-                                                    <p>Chief Development Officer</p>
-                                                    <span>Tell me more</span>
-                                                </div>  
-                                            </div>
-                                            
-                                                <img class="img-responsive" alt="" src="/images/uploads/about/580/parhamsantana_brandextension_steve_puccia__x-large.jpeg">
-                                            
-                                        </a>
-                                    </div>
-                                    <!-- end staff -->
-                                
-                                    <!-- staff -->
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <a href="/about/maryann" class="thumb-wrapper team">
-                                            <div class="overlay text-center">
-                                                <div>
-                                                    <h2>Maryann</h2>
-                                                    <p>Vice President, <br />
-    Director of Creative <br />
-    Services</p>
-                                                    <span>Tell me more</span>
-                                                </div>  
-                                            </div>
-                                            
-                                                <img class="img-responsive" alt="" src="/images/uploads/about/277/parhamsantana_brandextension_maryann_mitkowski__x-large.jpg">
-                                            
-                                        </a>
-                                    </div>
-                                    <!-- end staff -->
-                                
-                                    <!-- staff -->
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
                                         <a href="/about/aaron" class="thumb-wrapper team">
                                             <div class="overlay text-center">
                                                 <div>
@@ -194,92 +158,6 @@
                                             </div>
                                             
                                                 <img class="img-responsive" alt="" src="/images/uploads/about/279/parhamsantana_brandextension_aaron_spiegeland__x-large.jpg">
-                                            
-                                        </a>
-                                    </div>
-                                    <!-- end staff -->
-                                
-                                    <!-- staff -->
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <a href="/about/susanne" class="thumb-wrapper team">
-                                            <div class="overlay text-center">
-                                                <div>
-                                                    <h2>Susanne</h2>
-                                                    <p>Retail Strategy Director</p>
-                                                    <span>Tell me more</span>
-                                                </div>  
-                                            </div>
-                                            
-                                                <img class="img-responsive" alt="" src="/images/uploads/about/278/parhamsantana_brandextension_susanne_kernan-2__x-large.jpg">
-                                            
-                                        </a>
-                                    </div>
-                                    <!-- end staff -->
-                                
-                                    <!-- staff -->
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <a href="/about/edward" class="thumb-wrapper team">
-                                            <div class="overlay text-center">
-                                                <div>
-                                                    <h2>Edward</h2>
-                                                    <p>Board of Advisors, <br />
-    Research</p>
-                                                    <span>Tell me more</span>
-                                                </div>  
-                                            </div>
-                                            
-                                                <img class="img-responsive" alt="" src="/images/uploads/about/275/parhamsantana_brandextension_edward_tauber__x-large.jpg">
-                                            
-                                        </a>
-                                    </div>
-                                    <!-- end staff -->
-                                
-                                    <!-- staff -->
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <a href="/about/diana" class="thumb-wrapper team">
-                                            <div class="overlay text-center">
-                                                <div>
-                                                    <h2>Diana</h2>
-                                                    <p>Copy Director</p>
-                                                    <span>Tell me more</span>
-                                                </div>  
-                                            </div>
-                                            
-                                                <img class="img-responsive" alt="" src="/images/uploads/about/276/parhamsantana_brandextension_diana_amsterdam__x-large.jpg">
-                                            
-                                        </a>
-                                    </div>
-                                    <!-- end staff -->
-                                
-                                    <!-- staff -->
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <a href="/about/james" class="thumb-wrapper team">
-                                            <div class="overlay text-center">
-                                                <div>
-                                                    <h2>James</h2>
-                                                    <p>DIGITAL STRATEGY DIRECTOR</p>
-                                                    <span>Tell me more</span>
-                                                </div>  
-                                            </div>
-                                            
-                                                <img class="img-responsive" alt="" src="/images/uploads/about/602/parhamsantana_brandextension_james_kunert__x-large.jpeg">
-                                            
-                                        </a>
-                                    </div>
-                                    <!-- end staff -->
-                                
-                                    <!-- staff -->
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <a href="/about/richard" class="thumb-wrapper team">
-                                            <div class="overlay text-center">
-                                                <div>
-                                                    <h2>Richard</h2>
-                                                    <p>Chief Legal Counsel</p>
-                                                    <span>Tell me more</span>
-                                                </div>  
-                                            </div>
-                                            
-                                                <img class="img-responsive" alt="" src="/images/uploads/about/274/parhamsantana_brandextension_richard_bergovoy__x-large.jpg">
                                             
                                         </a>
                                     </div>

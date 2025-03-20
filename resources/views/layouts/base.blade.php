@@ -150,14 +150,10 @@
     var touchDevice = 'false';
     
     // Show intro
-    function showIntro() {
-        $("#intro .item").velocity("transition.fadeIn", {stagger: 350});    
-    }
-    // Show intro
     function showIntroText() {
         var $introText = $(".intro-text");
         if ($introText) {
-            $introText.velocity("transition.slideLeftIn", {stagger: 350, complete: showIntro});
+            $introText.velocity("transition.slideLeftIn", {stagger: 350});
         }
         
         var $workImages = $(".work-top-images");

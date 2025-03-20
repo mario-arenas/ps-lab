@@ -486,73 +486,16 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             
+        
                 
                 <div class="item active">
-                    <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_unseen_is_unsold__x-large.jpg" />
-                    <div class="ps-caption">
-                        <div class="positioner">
-                            <h2>&ldquo;Unseen is unsold.&rdquo;</h2>
-                            <div class="by">
-                                &mdash;JOHN PARHAM<br/>
-                                PRESIDENT, DIRECTOR OF BRANDING
-                            </div>
-                            <a href="#" class="move-left"><i class="fa fa-angle-left fa-2x"></i></a><a href="#" class="move-right"><i class="fa fa-angle-right fa-2x"></i></a>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="item">
-                    <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_empower_your_consumer__x-large.jpg" />
-                    <div class="ps-caption">
-                        <div class="positioner">
-                            <h2>&ldquo;Empower your consumer, you will gain their trust.&rdquo;</h2>
-                            <div class="by">
-                                &mdash;MARUCHI SANTANA<br/>
-                                CHIEF CLIENT OFFICER
-                            </div>
-                            <a href="#" class="move-left"><i class="fa fa-angle-left fa-2x"></i></a><a href="#" class="move-right"><i class="fa fa-angle-right fa-2x"></i></a>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="item">
-                    <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_always_strive_to_add_value__x-large.jpg" />
-                    <div class="ps-caption">
-                        <div class="positioner">
-                            <h2>&ldquo;Always strive to add value.&rdquo;</h2>
-                            <div class="by">
-                                &mdash;AARON SPIEGELAND<br/>
-                                Vice President, Brand Strategy and Licensing
-                            </div>
-                            <a href="#" class="move-left"><i class="fa fa-angle-left fa-2x"></i></a><a href="#" class="move-right"><i class="fa fa-angle-right fa-2x"></i></a>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="item">
-                    <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_you_buy_with_your_eyes__x-large.jpg" />
-                    <div class="ps-caption">
-                        <div class="positioner">
-                            <h2>&ldquo;You buy with your eyes.&rdquo;</h2>
-                            <div class="by">
-                                &mdash;SUSANNE KERNAN<br/>
-                                Retail Strategy Director
-                            </div>
-                            <a href="#" class="move-left"><i class="fa fa-angle-left fa-2x"></i></a><a href="#" class="move-right"><i class="fa fa-angle-right fa-2x"></i></a>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="item">
                     <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_all_genius_is_editing__x-large.jpg" />
                     <div class="ps-caption">
                         <div class="positioner">
                             <h2>&ldquo;All genius is editing.&rdquo;</h2>
                             <div class="by">
-                                &mdash;MARYANN MITKOWSKI<br/>
-                                Vice President, Director of Creative Services
+                                PARHAM SANTANA
                             </div>
-                            <a href="#" class="move-left"><i class="fa fa-angle-left fa-2x"></i></a><a href="#" class="move-right"><i class="fa fa-angle-right fa-2x"></i></a>
                         </div>
                     </div>
                 </div>
