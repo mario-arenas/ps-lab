@@ -486,16 +486,36 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             
-        
                 
                 <div class="item active">
+                    <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_unseen_is_unsold__x-large.jpg" />
+                    <div class="ps-caption">
+                        <div class="positioner">
+                            <h2>&ldquo;Unseen is unsold.&rdquo;</h2>
+                            <div class="by">
+                                PARHAM SANTANA
+                            </div>
+                            <a href="#" class="move-left"><i class="fa fa-angle-left fa-2x"></i></a><a href="#" class="move-right"><i class="fa fa-angle-right fa-2x"></i></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="item">
+                    <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_you_buy_with_your_eyes__x-large.jpg" />
+                    <div class="ps-caption">
+                        <div class="positioner">
+                            <h2>&ldquo;You buy with your eyes.&rdquo;</h2>
+                            <a href="#" class="move-left"><i class="fa fa-angle-left fa-2x"></i></a><a href="#" class="move-right"><i class="fa fa-angle-right fa-2x"></i></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="item">
                     <img class="img-fluid" src="/images/uploads/home/566/parhamsantana_brandextension_all_genius_is_editing__x-large.jpg" />
                     <div class="ps-caption">
                         <div class="positioner">
                             <h2>&ldquo;All genius is editing.&rdquo;</h2>
-                            <div class="by">
-                                PARHAM SANTANA
-                            </div>
+                            <a href="#" class="move-left"><i class="fa fa-angle-left fa-2x"></i></a><a href="#" class="move-right"><i class="fa fa-angle-right fa-2x"></i></a>
                         </div>
                     </div>
                 </div>
